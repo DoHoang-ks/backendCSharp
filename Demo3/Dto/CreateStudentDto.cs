@@ -26,4 +26,7 @@
         }
         public IFormFile Avatar { get; set; } //lấy file.
 }
+
+
 }
+
